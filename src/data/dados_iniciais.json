@@ -1,183 +1,237 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Trailler",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Ver mais trailler",
+        "url": "https://www.youtube.com/playlist?list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW"
       },
+      
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Venha fazer sua Lenda...",
+          "url": "https://www.youtube.com/watch?v=IA-v_LB3Qpc&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=13"
+        },
+
+        {
+          "titulo": "Kin of the Stained Blade | Spirit Blossom 2020 #Cinematic",
+          "url": "https://www.youtube.com/watch?v=D4L0OkSrsI8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Tales of Runeterra: Bilgewater | “Double-Double Cross”",
+          "url": "https://www.youtube.com/watch?v=lbJhZW-iN0s&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Tales of Runeterra: Ionia | “The Lesson”",
+          "url": "https://www.youtube.com/watch?v=HGPoGtSBhu0&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=5"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Tales of Runeterra: Piltover and Zaun | “True Genius”",
+          "url": "https://www.youtube.com/watch?v=qCVLRh1y96M&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=6"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Tales of Runeterra: Noxus | “After Victory”",
+          "url": "https://www.youtube.com/watch?v=FGlhWPwrkDg&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=7"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Tales of Runeterra: Freljord | “The Raid”",
+          "url": "https://www.youtube.com/watch?v=BTnVvmqB9fY&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=9"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
+          "titulo": "Tales of Runeterra: Demacia | “Before Glory”",
+          "url": "https://www.youtube.com/watch?v=oKt58b7AwJc&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=10"
+        }      
+        ,
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Fiddlesticks: Terror in Demacia | Champion Update Trailer - League of Legends”",
+          "url": "https://www.youtube.com/watch?v=jNn2F39G-6s&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=11"
+        }      
+        ,
+        {
+          "titulo": "Tales of Runeterra: Shadow Isles | “None Escape”",
+          "url": "https://www.youtube.com/watch?v=3yxNUbYZEWU&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=8"
+        }      
+        ,
+        {
+          "titulo": "Arcane: Anúncio da série de animação | Riot PLS: Edição de 10º Aniversário - League of Legends",
+          "url": "https://www.youtube.com/watch?v=IA-v_LB3Qpc&list=PLbAFXJC0J5GavJUu2hzIPBzFYxbIc8_yW&index=13"
         }        
       ]
     },
+
+
+
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Campeões",
+      "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Você é o envocador, veja os melhores champs do lol",
+        "url": "https://www.youtube.com/playlist?list=PLbAFXJC0J5GaVjPNNw_i-oLNKc7bVQcFk"
       },
+      
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Lillia Champion Spotlight | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=lJqGoqNXuGo"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Fiddlesticks Gameplay Preview | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=S6r5TwgDL4Q"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Sett Champion Spotlight | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=n-KWeg-9GVU"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Aphelios Champion Spotlight | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=lDoeuuBRUFg"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Senna Champion Spotlight | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=9n97hMnjhbA"
+        },
+        {
+          "titulo": "Gangplank: Champion Spotlight | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=3kysDbC-NTo&list=PLbAFXJC0J5GaVjPNNw_i-oLNKc7bVQcFk&index=44"
+        }
+        ,
+        {
+          "titulo": "Jhin: Champion Spotlight | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=QvNw0A-D0T0&list=PLbAFXJC0J5GaVjPNNw_i-oLNKc7bVQcFk&index=39"
+        }
+        ,
+        {
+          "titulo": "Kayn Champion Spotlight | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=pPaauwI6G5s&list=PLbAFXJC0J5GaVjPNNw_i-oLNKc7bVQcFk&index=26"
+        }
+        ,
+        {
+          "titulo": "Urgot Champion Spotlight | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=AEd1aq77tBo&list=PLbAFXJC0J5GaVjPNNw_i-oLNKc7bVQcFk&index=25"
+        }
+        ,
+        {
+          "titulo": "Ornn Champion Spotlight | Gameplay - League of Legends",
+          "url": "https://www.youtube.com/watch?v=WaJbuSNlVMU&list=PLbAFXJC0J5GaVjPNNw_i-oLNKc7bVQcFk&index=25&t=0s"
         }
       ]
     },
+
+
+
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Músicas",
+      "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Melhores Playlists",
+        "url": "https://www.youtube.com/playlist?list=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS"
       },
+
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "True Damage - GIANTS (com Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends",
+          "url": "https://www.youtube.com/watch?v=sVZpHFXcFJw&list=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Warriors | Animação da Temporada 2020 - League of Legends (com 2WEI e Edda Hayes)",
+          "url": "https://www.youtube.com/watch?v=aR-KAldshAE&list=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS&index=2"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Phoenix (com Cailin Russo e Chrissy Costanza) | Mundial 2019 - League of Legends",
+          "url": "https://www.youtube.com/watch?v=i1IKnWDecwA&list=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS&index=3"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Ignite (ft. Zedd) | Worlds 2016 - League of Legends",
+          "url": "https://www.youtube.com/watch?v=Zasx9hjo4WY"
+        }
+        ,
+        {
+          "titulo": "As We Fall | Varus Music Video - League of Legends",
+          "url": "https://www.youtube.com/watch?v=vzNcSvKCOyA"
+        }
+        ,
+        {
+          "titulo": "Pentakill: Mortal Reminder | Official Music Video - League of Legends",
+          "url": "https://www.youtube.com/watch?v=5-mT9D4fdgQ"
+        }
+        ,
+        {
+          "titulo": "Burning Bright | Star Guardian Music Video - League of Legends",
+          "url": "https://www.youtube.com/watch?v=oorajmbSJUM"
+        }
+        ,
+        {
+          "titulo": "RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends",
+          "url": "https://www.youtube.com/watch?v=fB8TyLTD7EE&list=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS&index=8"
+        }
+        ,
+        {
+          "titulo": "K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends",
+          "url": "https://www.youtube.com/watch?v=UOxkGD8qRB4&list=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS&index=6"
+        }
+        ,
+        {
+          "titulo": "Luz e Escuridão | Trailer de Animação - Guardiãs Estelares - League of Legends",
+          "url": "https://www.youtube.com/watch?v=wkihKQ7Exvo&list=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS&index=4"
         }
       ]
     },
+
+
+
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Tutoriais",
+      "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Veja mais dicas de como jogar",
+        "url": "https://www.youtube.com/playlist?list=PLQlQ0_xpnAjHf8-hvxRaA2rXT6FBzQFgw"
       },
+
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "🔴 COMO JOGAR DE YONE S10 - CAUSE TONELADAS DE DANO - FALA DO CHAMP",
+          "url": "https://www.youtube.com/watch?v=uLBgBzKk6P8&list=PLQlQ0_xpnAjHf8-hvxRaA2rXT6FBzQFgw&index=2&t=1s"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "🔴 COMO JOGAR DE KAYN S10 - VERSÁTIL, MUITA MOBILIDADE E CAUSA MUITO DANO - FALA DO CHAMP",
+          "url": "https://www.youtube.com/watch?v=btzZG00jJQM&list=PLQlQ0_xpnAjHf8-hvxRaA2rXT6FBzQFgw&index=3"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "🔴 COMO JOGAR DE MISS FORTUNE - UM BOM R E É GG, ADC FÁCIL PARA INICIAR - FALA DO CHAMP",
+          "url": "https://www.youtube.com/watch?v=xRbrjYC2tM4&list=PLQlQ0_xpnAjHf8-hvxRaA2rXT6FBzQFgw&index=12"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "🔴 COMO JOGAR DE AHRI - A MELHOR MID LANER DO JOGO - FALA DO CHAMP",
+          "url": "https://www.youtube.com/watch?v=nqsnA-V9bsA&list=PLQlQ0_xpnAjHf8-hvxRaA2rXT6FBzQFgw&index=14"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+    },
+    {
+      "titulo": "Streamers",
+      "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Streamers Gameplay",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "FILHO DO PATO E O KAMI EM FLEX ft. Pato Papão e Riyuuka (Kami stream #47)",
+          "url": "https://www.youtube.com/watch?v=V4u1sWiiBnY"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "EU NÃO PERCO DE MISS FORTUNE - Micão Stream",
+          "url": "https://www.youtube.com/watch?v=m6ODaEd2Ppk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "BEST OF FAKER MONTAGE - BEST PLAYER in The WORLD! (Best of SKT Faker Streams, Worlds, LCK 2017)",
+          "url": "https://www.youtube.com/watch?v=eO8pEMllwlk"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Goku - Stream Highlights #1",
+          "url": "https://www.youtube.com/watch?v=iCnRMe1jZDA"
         }
       ]
     }
