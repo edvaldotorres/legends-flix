@@ -6,8 +6,9 @@ function Footer() {
   return (
     <FooterBase>
       <a href="/">
-        <img class="Logo" src = { Logo } alt="Logo Alura" />
+        <img class="Logo" src = { Logo } alt="Logo LegendsFlix" />
       </a>
+      
       <p>
         Orgulhosamente criado com &#10084; por:
         {' '}
