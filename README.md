@@ -7,3 +7,7 @@
 2. React
 3. HTML5
 4. CSS3
+## Social media:
+>Não segue minhas Redes Sociais?,Conheça mais e fique por dentro de tudo.
+>
+[Instagram](https://www.instagram.com/edvaldotorres_/) [Linkedin](https://www.linkedin.com/in/edvaldo-torres-de-souza-189894150/)
