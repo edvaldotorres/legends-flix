@@ -1,7 +1,7 @@
 # Projeto: Legends Flix </h1>
->projeto foi desenvolvido na Imensão React da Alura, tendo como principal objetivo o foco no Front-End todo layout e tema foi com base na Netflix. 
+>projeto foi desenvolvido na Imensão React da Alura, tendo como principal objetivo o foco no Front-End todo layout e tema foi com base na Netflix e no jogo League of Legends. 
 >
->Quer ver como ta ficando ? Acessa a [DEMO](https://project-legendsflix.vercel.app/)
+>Quer ver como ta ficando ? Acessa o projeto [AQUI](https://project-legendsflix.vercel.app/)
 ## Tecnologias do projeto:
 1. JavaScript
 2. React
