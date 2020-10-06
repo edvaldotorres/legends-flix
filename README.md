@@ -7,6 +7,12 @@
 2. React
 3. HTML5
 4. CSS3
+## Observações iportantes:
+Disponivel para git clone
+- [x] Sim
+- [ ] Não
+Requisitos:
+1. Install Node JS
 ## Social media:
 >Não segue minhas Redes Sociais ainda ? Conheça mais e fique por dentro de tudo.
 >
