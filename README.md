@@ -8,7 +8,7 @@
 3. HTML5
 4. CSS3
 ## Observações iportantes:
-Disponivel para git clone
+Disponivel para git clone:
 - [x] Sim
 - [ ] Não
 
