@@ -1,23 +1,20 @@
 {
-  "name": "project-torresflix",
+  "name": "legends-flix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "json-server": "^0.16.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
-    "react-slick": "^0.27.1",
-    "styled-components": "^5.1.1"
+    "react-scripts": "3.4.3",
+    "react-slick": "^0.27.11",
+    "styled-components": "^5.2.0"
   },
   "scripts": {
-    "server": "node ./server.js",
-    "dev": "concurrently \"react-scripts start\" \"npm run server\"",
-    "start": "npm run server",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -36,9 +33,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "concurrently": "^5.2.0",
-    "eslint": "^6.6.0"
   }
 }
