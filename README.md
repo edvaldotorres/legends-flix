@@ -21,8 +21,9 @@ Disponivel para git clone:
 - [ ] Não
 Posso contribuir para esse projeto:
 - [x] Sim
-- [ ] Não
-Email: edvaldodev@gmail.com
+- [ ] Não 
+>
+>Email:edvaldodev@gmail.com
 ## Social media:
 >Não segue minhas Redes Sociais ainda ? Conheça mais e fique por dentro de tudo.
 >
