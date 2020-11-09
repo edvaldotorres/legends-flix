@@ -19,6 +19,7 @@
 Disponivel para git clone:
 - [x] Sim
 - [ ] Não
+>
 Posso contribuir para esse projeto:
 - [x] Sim
 - [ ] Não 
