@@ -13,19 +13,13 @@
 ## Install
 
 ```sh
-1. npm install
+npm install
 ```
 
 ## Usage
 
 ```sh
 npm start
-```
-
-## Run tests
-
-```sh
-npm run test
 ```
 
 ## Author
@@ -35,10 +29,6 @@ npm run test
 * Website: edvaldodev@gmail.com
 * Github: [@edvaldotorres](https://github.com/edvaldotorres)
 * LinkedIn: [@edvaldo-torres-189894150](https://linkedin.com/in/edvaldo-torres-189894150)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](No related problems in the development of the project.). 
 
 ## Show your support
 
