@@ -1,23 +1,31 @@
-<h1 align="center">Welcome to portal-news-app 👋</h1>
+<h1 align="center">Welcome to legends-flix 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-> The project is a News Portal following the MVC standard, it has an API where it can be easily consumed in other systems, not to mention that it also has an RSS which is a format for distributing information. The system has a user profile and permissions for the appropriate profiles, respectively.
+> Project developed with JavaScript technology using React. The project aims to practice the technology and has been proposing a creativity of Netflix and the gamer League of Legends.
+
+### ✨ [Demo](https://project-legendsflix.vercel.app/)
 
 ## Install
 
 ```sh
-aaa
+1. npm install
+```
+
+## Usage
+
+```sh
+npm start
 ```
 
 ## Run tests
 
 ```sh
-aaaaaa
+npm run test
 ```
 
 ## Author
@@ -30,7 +38,7 @@ aaaaaa
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](teste de teste). You can also take a look at the [contributing guide](teste de teste).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](No related problems in the development of the project.). 
 
 ## Show your support
 
